@@ -2,15 +2,14 @@
   "app": "npx ts-node bin/sdlc-organization.ts",
   "context": {
     "@aws-cdk/core:newStyleStackSynthesis": true,
-    "github_alias": "<YOUR GITHUB ALIAS>",
+    "github_alias": "ooiyeefei",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
-    "email": "<YOUR ROOT EMAIL>",
-    "domain_name": "<YOUR DOMAIN NAME>",
+    "email": "yeefei@amazon.com ",
+    "domain_name": "amazon.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
-      "us-east-1",
-      "eu-west-1"
+      "ap-southeast-1"
     ]
   }
 }
